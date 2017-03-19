@@ -1,5 +1,5 @@
 imports:
-    - { resource: config.yml }
+    - { resource: main_config.yml }
 
 #framework:
 #    validation:
